@@ -21,13 +21,7 @@ pip install -r requirements.txt
 streamlit run healthscanx_app.py
 ```
 
-## 🔐 Setup OpenAI API Key
 
-Create a file at `.streamlit/secrets.toml` with:
-
-```toml
-OPENAI_API_KEY = "your_openai_api_key"
-```
 
 ## ✅ Example Inputs
 
