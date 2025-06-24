@@ -1,0 +1,1 @@
+<YOUR FULL healthscanx_app.py CODE HERE – included in next cell for clarity>
